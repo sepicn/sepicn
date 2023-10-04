@@ -1,4 +1,4 @@
-<div align="center"
+<div align="center">
 ![terminal (1)](https://github.com/sepicn/sepicn/assets/113134410/7bb91cea-16d5-4d34-bff7-149a95fad46a)
 </div>
 
