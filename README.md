@@ -1,7 +1,9 @@
 ###
+<p align="center">
 
 ![terminal (1)](https://github.com/sepicn/sepicn/assets/113134410/7bb91cea-16d5-4d34-bff7-149a95fad46a)
 
+</div>
 ###
 
 <p align="left">I'm on a mission to expand my skills in front-end technologies, with a special focus on React, while having a great time doing it. <br>My goal is not only to sharpen my existing skills but also to inspire others in their journey through code. <br>I believe in the power of continuous learning, and I'm always eager to absorb as much knowledge as I can.</p>
